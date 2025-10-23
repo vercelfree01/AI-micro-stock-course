@@ -33,7 +33,7 @@ export function Pricing() {
             </div>
           </div>
 
-          <div className="relative p-10 md:p-12 bg-gradient-to-br from-primary/20 via-card to-accent/10 border-2 border-primary/40 rounded-3xl shadow-2xl overflow-hidden">
+          <div className="relative p-10 md:p-12 bg-gradient-to-br from-primary/20 via-card to-accent/10 border-2 border-primary/40 rounded-3xl shadow-2xl overflow-visible">
             <div className="absolute -top-5 left-1/2 transform -translate-x-1/2 px-6 py-2 bg-gradient-to-r from-accent to-primary text-accent-foreground rounded-full text-sm font-heading font-bold shadow-lg flex items-center gap-2">
               <Zap className="w-4 h-4" />
               সীমিত অফার
